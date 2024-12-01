@@ -4,3 +4,7 @@ git commit -m "peckish_pdf initial setup"
 git branch -M main
 git remote add origin https://github.com/alokjha2/peckish_pdf.git
 git push -u origin main
+
+how to create package 
+flutter create --template=plugin peckish_pdf
+
