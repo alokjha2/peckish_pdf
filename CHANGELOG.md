@@ -1,3 +1,5 @@
-## 0.0.1
+# Change Log
 
-* TODO: Describe initial release.
+## [0.0.1] - YYYY-MM-DD
+### Added
+- Initial release of the peckish_pdf package with basic functionality.
